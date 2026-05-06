@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Julia
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+/.julia/
+deps/deps.jl
+deps/build.log
+
+# Simulation outputs (not tracked in public repo — see Data section in README)
+*.nc
+*.jld2
+*.h5
+*.mp4
+out/

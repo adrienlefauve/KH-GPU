@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: "2D DNS of stratified shear flow and Kelvin-Helmholtz instability with Oceananigans.jl on GPU"
+message: "If you use this software, please cite the associated paper and the full data deposit."
+type: software
+authors:
+  - family-names: Lefauve
+    given-names: Adrien
+    affiliation: Imperial College London
+license: MIT
+preferred-citation:
+  type: article
+  title: "The structure and lifecycle of stratified mixing by shear instabilities in continuously forced flows"
+  authors:
+    - family-names: Lefauve
+      given-names: Adrien
+      affiliation: Imperial College London
+    - family-names: Bassett
+      given-names: C.
+      affiliation: University of Washington
+    - family-names: Plotnick
+      given-names: D. S.
+      affiliation: Pennsylvania State University
+    - family-names: Lavery
+      given-names: A. C.
+      affiliation: Oregon State University
+    - family-names: Geyer
+      given-names: W. R.
+      affiliation: Woods Hole Oceanographic Institution
+  year: 2026
+  doi: 10.22541/essoar.176676944.48233717/v1
+  notes: "Preprint; currently under peer review. Update DOI on acceptance."
+identifiers:
+  - type: doi
+    value: 10.82186/myzcg-jwm39
+    description: "Full research data deposit (Imperial College London) — includes field data, lab data, simulation outputs, movies, and figures."
